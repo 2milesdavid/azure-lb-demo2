@@ -45,7 +45,7 @@ variable "ip_conf_name1" {
 }
 
 variable "ip_conf_name2" {
-	default = "vm2-ip-conf-name2"
+	default = "vm2-ip-conf-name1"
 }
 
 variable "diag-storage" {
