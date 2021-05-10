@@ -3,12 +3,12 @@
 # 생성 순서
 
 리소스 그룹<br>
-VNET
-SUBNET
-LB Public IP
-LB 관련 설정
-Network Security Group
-NAT Rule
-NIC
-Availability Set
+VNET<br>
+SUBNET<br>
+LB Public IP<br>
+LB 관련 설정<br>
+Network Security Group<br>
+NAT Rule<br>
+NIC<br>
+Availability Set<br>
 VM
