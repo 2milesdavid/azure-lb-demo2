@@ -2,7 +2,7 @@
 
 # 생성 순서
 
-리소스 그룹 
+리소스 그룹<br>
 VNET
 SUBNET
 LB Public IP
